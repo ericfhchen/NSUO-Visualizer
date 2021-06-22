@@ -38,11 +38,11 @@ function draw() {
 
 function resetSketch() {
     var images = [
-    "1.jpg",
-    "2.jpg",
-    "3.jpg",
-    "4.jpg",
-    "5.jpg"
+    "https://res.cloudinary.com/dnhpzzy3e/image/upload/v1624323500/NSUO/Visualizer%20Images/3_bo4rf5.jpg",
+    "https://res.cloudinary.com/dnhpzzy3e/image/upload/v1624323500/NSUO/Visualizer%20Images/5_ekvqwr.jpg",
+    "https://res.cloudinary.com/dnhpzzy3e/image/upload/v1624323500/NSUO/Visualizer%20Images/4_mmjdws.jpg",
+    "https://res.cloudinary.com/dnhpzzy3e/image/upload/v1624323500/NSUO/Visualizer%20Images/2_pz609r.jpg",
+    "https://res.cloudinary.com/dnhpzzy3e/image/upload/v1624323500/NSUO/Visualizer%20Images/1_kugc2q.jpg"
           ];
   
   var randomImage = Math.floor(Math.random() * 5)
